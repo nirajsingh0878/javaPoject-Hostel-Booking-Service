@@ -1,0 +1,3 @@
+For creating table --
+create table bhh1(regno int,name varchar(20),room int,block varchar(20),
+primary key(room,block) );
